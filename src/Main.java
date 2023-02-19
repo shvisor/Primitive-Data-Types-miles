@@ -6,6 +6,6 @@ public class Main {
 
         int bonusMiles = ticketPrice / perMiles;
 
-        System.out.println(bonusMiles);
+        System.out.println("Начислено: " + bonusMiles + " бонусных миль");
     }
 }
